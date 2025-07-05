@@ -32,7 +32,7 @@ A simple and interactive web app that checks whether a given word or phrase is a
 Examples:
 - ✅ “madam” → Palindrome  
 - ❌ “hello” → Not a Palindrome  
-- ✅ “Was it a car or a cat I saw” → Palindrome
+- ✅ “WasitacaroracatIsaw” → Palindrome
 
 ---
 
